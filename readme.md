@@ -11,9 +11,7 @@ This project is used to reconstruct three-dimensional model of pearl OCT slice i
 ![image](https://github.com/wodouwudi/md_test/blob/master/Flowchart.png)
 
 ​	We use the diameter difference method to classify the roundness of pearls, that is, the maximum thickness and minimum thickness of pearls are measured by a jewelry thickness gauge. The maximum thickness is set as , and the minimum thickness is set as . The difference between and is set to . Calculated pearl diameter difference percentage (Pd):
-$$
-Pd\\%=100(\\frac{d}{x}+ \\frac{d}{x})/2
-$$
+$$Pd\\%=100(\frac{d}{x}+ \frac{d}{x})/2$$
 The lower the Pd % is, the better the pearl roundness grade is, and vice versa. At the same time, referring to the “National Standard of the People’s Republic of China GB/T18781-2008”, is divided into four roundness grades, and the classification error is ± 0.1 % (Pd). Details are shown in Table 1. Oval-grade pearls contain some pear-shaped pearls and flat-shaped pearls.
 
 #### Table 1 Roundness Grading of Standard Samples
