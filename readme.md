@@ -8,7 +8,7 @@ This project is used to reconstruct three-dimensional model of pearl OCT slice i
 
 #### Fig 1
 
-![image](https://github.com/wodouwudi/md_test/blob/main/Flowchart.png)
+![image](https://github.com/wodouwudi/md_test/blob//Flowchart.png)
 
 ​	We use the diameter difference method to classify the roundness of pearls, that is, the maximum thickness and minimum thickness of pearls are measured by a jewelry thickness gauge. The maximum thickness is set as , and the minimum thickness is set as . The difference between and is set to . Calculated pearl diameter difference percentage (Pd):
 $$
